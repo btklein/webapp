@@ -10,7 +10,6 @@ Apache 2.0
 ## Copyright
 
 Copyright Docker Inc Education Team 2014 <education@docker.com>
-
                 ,        ,         
                /(        )`        
                \ \___   / |        
@@ -22,11 +21,12 @@ Copyright Docker Inc Education Team 2014 <education@docker.com>
              (_.)  _  )   /        
               `.___/`    /         
                 `-----' /          
-    <----.     __ / __   \          
+   <----.     __ / __   \          
    <----|====O)))==) \) /====|      
    <----'    `--' `.__,' \         
-                 |        |         
-                  \       /       /\
-              ______( (_  / \______/ 
-         ,'  ,-----'   |          
-           `--{__________)          
+                |        |         
+                 \       /       /\
+            ______( (_  / \______/ 
+          ,'  ,-----'   |          
+`--{__________)          
+
